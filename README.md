@@ -47,7 +47,7 @@ Loan default prediction using the “Give Me Some Credit” dataset (Kaggle).
 ## 📫 Contact Me
 - 📍 Mumbai, India  
 - ✉️ Email: **sudhirchaudhary4565@gmail.com**  
-- 🔗 GitHub: **github.com/SudhirChaudhary56**
+- 🔗  GitHub: [github.com/SudhirChaudhary56](https://github.com/SudhirChaudhary56)
 
 ---
 

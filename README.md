@@ -54,6 +54,6 @@ Loan default prediction using the “Give Me Some Credit” dataset (Kaggle).
 ## ⭐ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhirChaudhary56" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=SudhirChaudhary56&theme=default" alt="GitHub Streak" />
 </p>
 

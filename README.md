@@ -15,7 +15,7 @@
 ## 🛠️ Tech Stack & Tools
 
 ### **Programming & Analytics**
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 - SQL
 - Jupyter Notebook  
 - Excel (Advanced)
